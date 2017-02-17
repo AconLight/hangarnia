@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/scenes/StachuScene.unity
+- path: Assets/scenes/WojtasStene.unity
   isLoaded: 1
   isActive: 1
