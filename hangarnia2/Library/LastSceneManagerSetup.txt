@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/scenes/StefanScene.unity
+- path: Assets/scenes/StachuScene.unity
   isLoaded: 1
   isActive: 1
