@@ -1,12 +1,4 @@
 sceneSetups:
-<<<<<<< HEAD
-<<<<<<< HEAD
-- path: Assets/scenes/WojtasStene.unity
-=======
-- path: Assets/scenes/StachuScene.unity
->>>>>>> master
-=======
-- path: Assets/scenes/WojtasStene.unity
->>>>>>> master
+- path: Assets/scenes/StefanScene.unity
   isLoaded: 1
   isActive: 1
